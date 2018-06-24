@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Máirtín Ó Cadhain",
+    "company": "RTÉ",
+    "phone": "087-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Eibhlín Dubh Ní Chonaill",
+    "company": "RTÉ",
+    "phone": "087-333-4444"
+  },
+  {
+    "id": 3,
+    "name": "Art Ó Laoghaire",
+    "company": "RTÉ",
+    "phone": "087-222-8888"
+  }
+]
